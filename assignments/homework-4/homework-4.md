@@ -1,14 +1,14 @@
 ```
 /**
 * @ProgramName: Binary Search
-* @Author: 1063 Team
+* @Author: Jackson Tran
 * @Description:
 *     This program:
 *          generates a randomly populated array of integers and
 *          has an implementation of a binary search
 * @Course: 1063 Data Structures
 * @Semester: Spring 2017
-* @Date: 6 Mar 17
+* @Date: March 6, 2017
 */
 
 #include <iostream>
