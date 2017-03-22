@@ -376,9 +376,7 @@ int main() {
 					}
 
 				}
-			}
-			outfile << " " << endl;
-	
+			}	
 		}
 		while (!q1.Empty()) {
 			ch = q1.Pop();
